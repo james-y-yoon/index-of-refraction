@@ -13,18 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: James Yoon
+title: Index of Refraction
 email: yoony@g.ucla.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Hey there!
-baseurl: "/writing-portfolio" # the subpath of your site, e.g. /blog
+baseurl: "/index-of-refraction" # the subpath of your site, e.g. /blog
 url: "https://james-y-yoon.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: jamesyyoon
 github_username:  james-y-yoon
 show_excerpts: true
 hide_credits: true
-hide_search: true
 
 # Build settings
 markdown: kramdown
@@ -44,5 +43,5 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
 
-paginate: 3
+paginate: 10
 paginate_path: "/page/:num/"
