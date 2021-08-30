@@ -22,7 +22,7 @@ url: "https://james-y-yoon.github.io/" # the base hostname & protocol for your s
 icon: /assets/images/icon-512.png
 twitter_username: jamesyyoon
 github_username:  james-y-yoon
-show_excerpts: true
+# show_excerpts: true
 hide_credits: true
 
 # Build settings
@@ -43,5 +43,5 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
 
-paginate: 10
+paginate: 15
 paginate_path: "/page/:num/"
