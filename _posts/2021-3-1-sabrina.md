@@ -1,8 +1,8 @@
 ---
-title: The Chilling Adventures of Sabrina: A Continuation of White Exceptionalism at the Expense of Black Characters
-author: Saori D. Borrayo
-category: media-criticism
 layout: post
+title: "The Chilling Adventures of Sabrina: A Continuation of White Exceptionalism at the Expense of Black Characters"
+author: "Saori D. Borrayo"
+category: media-criticism
 ---
 
 <figure>
@@ -22,7 +22,7 @@ Sabrina’s character emphasizes the social phenomenon of a white savior. In the
 
 Like other series, CAOS follows the trope of casting a Black best friend for the white female lead, as it caters mostly to white audiences. Our first introduction to Sabrina’s friends is through Rosalind “Roz” Walker, a clever, radical Black girl. Yet, we don’t learn much about Roz’s background in the first few episodes other than that she is the supporting best friend. As the series progresses, CAOS exploits this character to the point where we only know about her suffering rather than any substantial backstory. As season one progresses, Roz becomes blind, a curse placed by witches on the women in her family — an instance where her character is further minimized to highlight the white witches. This storyline becomes the center of Roz’s character when other white characters  get an  intimate  portrayal of  their family histories.
 
-CAOS’s denial of Roz’s family history, being Black people in the United States, is an erasure to Black people’s enslavement[^1]. CAOS shied away from these difficult and uncomfortable realities when witchcraft would have been a powerful vehicle to highlight history.
+CAOS’s denial of Roz’s family history, being Black people in the United States, is an erasure to Black people’s enslavement.[^1] CAOS shied away from these difficult and uncomfortable realities when witchcraft would have been a powerful vehicle to highlight history.
 
 
 Another disturbing moment of this series’s failed attempt to highlight “girl power” is through Prudence. Head witch of the Academy of the Unseen Arts and leader of the “Weird Sisters,” a mean girl group at the witch academy, Prudence is characterized as the evil, dark     witch. Our introduction to Prudence is when she hexes Sabrina, playing on the stereotype of Black women as white women’s aggressors. The power dynamic between the two characters is further complicated when Sabrina is newly admitted into the Academy of the Unseen Arts and is undergoing a hazing ritual called “The Harrowing.” After a series of tricks and trials, the ultimate hazing event is supposed to occur; Sabrina must survive being hung. Sabrina calls on the spirits of dead witches and warlocks to help her get revenge on the Weird Sisters. However, her idea of revenge is hanging them with a noose. A white woman hanging a Black woman is exceptionally problematic for reasons I do not have to mention. Prudence is reduced to a villain and stereotype when her character is extremely complex and a fan favorite. 
