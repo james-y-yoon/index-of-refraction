@@ -6,7 +6,7 @@ layout: post
 ---
 
 <figure>
-  <img alt="Rare" src="https://www.denofgeek.com/wp-content/uploads/2018/09/chilling_adventures_of_sabrina.jpg?fit=810%2C1200" />
+  <img alt="Sabrina" src="https://www.denofgeek.com/wp-content/uploads/2018/09/chilling_adventures_of_sabrina.jpg?fit=810%2C1200" />
   <figcaption>
     Courtesy of Netflix
   </figcaption>
